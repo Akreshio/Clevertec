@@ -1,0 +1,44 @@
+id;name;cost;promotion
+1;beef;280;true
+2;pork;280;false
+3;beef tenderloin;550;true
+4;Ground beef;220;false
+5;chicken legs;145;false
+6;beef;425;false
+7;Ground beef;300;false
+8;bacon;500;false
+9;hen;150;true
+10;chicken fillet;625;false
+11;cottage cheese;220;false
+12;milk;100;true
+13;butter;400;false
+14;processed cheese;400;false
+15;hard cheeses;850;false
+16;eggs;368;false
+17;potato;37;false
+18;beans;165;true
+19;carrot;55;false
+20;cabbage;55;false
+21;onion;37;false
+22;tomatoes;200;false
+23;apples;180;false
+24;pears;275;false
+25;bananas;53;false
+26;grape;220;true
+27;Strawberry;220;false
+28;Sweet pepper;250;false
+29;lemons;185;false
+30;peaches;165;false
+31;bananas;100;false
+32;oranges;100;false
+33;grapefruit;300;false
+34;grapes (seedless);250;true
+35;cherry;350;false
+36;sugar;50;false
+37;flour;32;false
+38;rice;50;false
+39;wheat bread;365;false
+40;rice;300;true
+41;spaghetti;330;false
+42;coffee;550;false
+43;sugar;110;false
